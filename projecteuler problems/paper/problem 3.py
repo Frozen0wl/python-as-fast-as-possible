@@ -1,4 +1,4 @@
-n = 200
+n = 6857
 i = 2
 while i * i < n:
     while n % i == 0:
