@@ -14,3 +14,7 @@ print()
 
 x = {i:0 for i in range(100) if i % 5 == 0}
 print(x)
+
+y = True
+
+variable = 'y is true' if y else 'y is not true'
