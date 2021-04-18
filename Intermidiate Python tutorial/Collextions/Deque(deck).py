@@ -1,0 +1,31 @@
+import collections
+from collections import deque
+
+d = deque("hellow")
+print(d)
+d.append(3)
+print(d)
+d.appendleft(3)
+print(d)
+d.pop()
+print(d)
+d.popleft()
+print(d)
+# d.pop(3)
+# print(d)
+d.extend('456')
+
+print(d)
+d.extendleft('hilem')
+print(d)
+d.rotate(3)
+print(d)
+d.rotate(-4)
+print(d)
+d.clear()
+print(d)
+
+d = deque("hello", maxlen = 5)
+print(d)
+d.append(1)
+print(d)

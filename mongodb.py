@@ -9,7 +9,7 @@ test = {
     "testKey3": {"key":"value", "key2":"value2"},
     "testKey4": "testValue2",
     "testKey5": "testValue3"
-}
+    }
 
 
 with client:

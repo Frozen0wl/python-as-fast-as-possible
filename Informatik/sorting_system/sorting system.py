@@ -1,12 +1,15 @@
 # compare the first number with all of the others. if it is the smallest put it in first place and do the same with second, if not try with second one. 5 * 4 = 20 comparisons
-# compare the first two numbers if they in order leave them as they are, otherwise swap them. repeat this process until there are no swaps: for 5 nums (4+3+2+1) 10 comparisons
+# compare the first two numbers if they in order leave them as they are, otherwise swap them. repeat this process until there are no swaps: for n nums n*(n-1)/2 comparisons
 # compare the second and third number if third is greater then second swap and compare second with first. do the same thing with the rest of the books until the last one: (4 * 5/2)/2 = 5 comparisons in average
-
+# pick the middle value, all numbers smaller to array a, others array b . -quicksort
 count = 0
-a = [3, 1, 4, 2, 10]
+a = []
+
+for i in range(2000, 0, -1):
+    a.append(i)
 
 for i in range(len(a)):
-    for j in range(1, len(a) - i):
+    for j in range(1, len(a)-i):
         count+=1
         if a[j] < a[j-1]:
             a[j], a[j-1] = a[j-1], a[j]
