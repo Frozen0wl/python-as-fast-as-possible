@@ -7,4 +7,4 @@ def pythagorean_triplet():
                 return (a * b * c)
 
 print(pythagorean_triplet())
-                ``
+                
