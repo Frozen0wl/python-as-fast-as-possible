@@ -3,10 +3,9 @@
 # compare the second and third number if third is greater then second swap and compare second with first. do the same thing with the rest of the books until the last one: (4 * 5/2)/2 = 5 comparisons in average
 # pick the middle value, all numbers smaller to array a, others array b . -quicksort
 count = 0
-a = []
+a = [2, 3, 5, 1, 3]
 
-for i in range(2000, 0, -1):
-    a.append(i)
+
 
 for i in range(len(a)):
     for j in range(1, len(a)-i):

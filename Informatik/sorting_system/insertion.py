@@ -1,13 +1,13 @@
-a = [12, 11, 13, 5, 6]
+a = [1, 2, 3, 4, -1]
+def insertion(arr):
+    for i in range(1, len(arr)):
+        j = i-1
+        while j>=0 and arr[i] < arr[j]:
+            arr[i], arr[j] = arr[j], arr[i]
+            j -= 1
+            i -= 1
+            print(arr)
 
-def recursive(arr):
-    if(len(arr) <= 1):
-        return
-    
-    recursive(arr[:len(arr)-1:])
-    
-    if arr[len(arr)-1] > arr[len(arr)-2]:
-        arr[len(arr)-1], arr[len(arr)-2] = arr[len(arr)-2], arr[len(arr)-1]
+insertion(a)
 
-
-print(recursive(a))
+# komplexität = n^2/4
