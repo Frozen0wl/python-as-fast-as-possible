@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class swap_sort{
 
-    static int[] a = {6, 3, 9, 7, 4, 1, 8, 5, 2};
+    static int[] a = {6, 3, 9, 7, 4, 1, 8, 5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2};
 
     public static void main(String[] args){
         swapsort(a);
@@ -13,7 +13,7 @@ public class swap_sort{
     public static void swapsort(int[] arr){
         while(i < arr.length - 1){
             
-            int m = 0;
+            int m = 0; //2
             int temp = 0;
             for(int j = 0; j<arr.length; j++){
                 // System.out.print(arr[j]);
@@ -23,9 +23,9 @@ public class swap_sort{
             }
             System.out.println(Arrays.toString(a));
 
-            temp = arr[i];
-            arr[i] = arr[m];
-            arr[m] = temp;
+            temp = arr[i];   //1
+            arr[i] = arr[m]; //1
+            arr[m] = temp;   //1
             
 
             if(m == i){
