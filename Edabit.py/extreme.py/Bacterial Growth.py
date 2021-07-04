@@ -5,7 +5,7 @@ def bacteria(final_mass):
     return tag - 1
 
 
-
+print(bacteria(8))
 
 # if split:
 #     mass += n*2

@@ -5,17 +5,18 @@
 count = 0
 a = [2, 3, 5, 1, 3]
 
-
-
+print(a)
 for i in range(len(a)):
     for j in range(1, len(a)-i):
-        count+=1
+        
+        # count+=1
         if a[j] < a[j-1]:
             a[j], a[j-1] = a[j-1], a[j]
+        print(i, j, a)
 
    
-print(a)
-print(f'{count} comparisons')
+# print(a)
+# print(f'{count} comparisons')
 
 
 # temp = 0

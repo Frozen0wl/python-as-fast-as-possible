@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class swap_sort{
 
-    static int[] a = {6, 3, 9, 7, 4, 1, 8, 5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2};
+    static int[] a = {6, 3, 9, 7, 4, 1, 8, 5, 2, 2, 2, 2, 2, 2, 2, 2, 2};
 
     public static void main(String[] args){
         swapsort(a);

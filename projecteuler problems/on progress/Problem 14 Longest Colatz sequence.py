@@ -19,7 +19,7 @@ for i in range(1, 1000000):
     counter = 1
 
     if i % 10000 == 0:
-        print(f'{i/10000}% complete; time = {int(time.time() - t)}secs')
+        print(f'{i/10000}% complete; time: {int(time.time() - t)}seconds')
     
 print(longest)
     

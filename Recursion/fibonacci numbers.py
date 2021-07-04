@@ -6,6 +6,13 @@ def fib(n):
     
     else:
         return fib(n-1)+fib(n-2)
-    
-for i in range(10):
-    print(fib(i), end = " ")
+
+
+fib(5)
+fib(4) + fib(3)
+fib(3) + fib (2) + fib(2) + fib(1)
+fib(2) + fib(1) + 1 + 1 + 1
+print(fib(100))
+
+# for i in range(1, 10):
+#     print(fib(i), end = " ")
