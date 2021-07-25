@@ -17,7 +17,6 @@ def score(dice):
                 values[element] -= 3
     
     for element in values:
-        print(element, values[element])
         if element == 1:
             total += (100 * values[element])
         if element == 5:
