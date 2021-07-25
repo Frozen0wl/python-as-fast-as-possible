@@ -16,12 +16,11 @@ def check():
     if enter != None:
         return
     print("Too Slow, your score is: ", score)
-    quit()1
+    quit()
 
 while True:
     letter, index = random.choice(list(dic.items()))
     k = random.randint(0, 1)
-    Thread(target = check).start()
     if k == 0:
         enter = int(input(letter + ": " ))
         if enter == index:

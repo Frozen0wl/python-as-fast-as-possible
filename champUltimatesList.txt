@@ -1,0 +1,1319 @@
+Aatrox - World Ender: After 0.25 seconds, Aatrox reveals his true demonic form for 10 seconds. On activation, he fears nearby enemy minions for 3 seconds and gains 60 / 80 / 100% bonus movement speed, decaying over the duration.
+
+ 
+
+While World Ender persists, Aatrox gains 20 / 25 / 30% bonus attack damage and receives 50 / 75 / 100% increased self-healing.
+
+ 
+
+On enemy champion takedown, the duration of World Ender is extended by 5 seconds and the movement speed increase is refreshed.
+
+ 
+
+Ahri - Spirit Rush: Ahri dashes forward and fires essence bolts, damaging 3 nearby enemies (prioritizes champions) for 60 / 90 / 120 (+35% of ability power) magic damage per bolt. Spirit Rush can be cast up to three times within ten seconds before going on cooldown. Maximum total magic damage to a single target is 210 / 330 / 450 (+75% of ability power).
+
+ 
+
+Akali - Perfect Execution: Akali dashes at the targeted enemy champion in a range of 675-825 (depending on the distance from the enemy), dealing 125 / 225 / 325 (+0.5 per bonus attack damage) physical damage to all enemies she passes through.
+
+ 
+
+After 2.5 seconds, Perfect Execution can be reactivated within the following 7.5 seconds, causing Akali to dash in the target direction, dealing 85 / 150 / 215 (+30% of ability power) magic damage to enemies hit. This damage is increased by up to 200% for a maximum of 255 / 450 / 645 (+90% of ability power) magic damage based on the target's missing health.
+
+ 
+
+Alistar - Unbreakable Will: On cast, Alistar removes all disables on himself and reduces incoming physical and magic damage by 55 / 65 / 75% for 7 seconds.
+
+ 
+
+Amumu - Curse of the Sad Mummy: Amumu entangles surrounding enemy units in bandages, dealing them 150 / 250 / 350 (+80% of ability power) magic damage as well as knocking them down and stunning them for 1.5/1.75/2 seconds. Curse of the Sad Mummy also stops enemies in the middle of their dashes.
+
+ 
+
+Curse of the Sad Mummy applies Cursed Touch to enemies after the damage is dealt.
+
+ 
+
+Anivia - Glacial Storm: Toggle: Anivia calls forth a driving rain of ice and hail, dealing 30 / 45 / 60 (+12.5% of ability power) magic damage per second to all enemies within while slowing their movement speed by 20 / 30 / 40% for 1 second and chilling them. Glacial Storm can be recast after 1 second. The blizzard increases in size over 1.5 seconds. At maximum size, enemies within the area take 300% damage and suffer a 50% stronger slow which lasts 1.5 seconds.
+
+ 
+
+Glacial Storm deactivates if she gets too far away or runs out of mana. Additionally, Glacial Storm is deactivated by all forms of interrupting crowd control.
+
+ 
+
+Once recasted, Anivia deactivates Glacial Storm, dealing one last tick of damage.
+
+ 
+
+Costs 60 (+35/45/55 per second) mana while the storm is active.
+
+ 
+
+Annie - Summon: Tibbers: Annie releases her bear Tibbers from his toy prison, dealing 150 / 275 / 400 (+65% of ability power) magic damage to enemy units in the summon area. For the next 45 seconds, Tibbers can move and attack at Annie's will, while continually dealing 20 / 30 / 40 (+12% of ability power) magic damage to surrounding enemies.
+
+ 
+
+Tibbers has 1200 / 2100 / 3000 health, 30 / 50 / 70 armor and magic resist and deals 50 / 75 / 100 (+15% of ability power) magic damage per auto attack.
+
+ 
+
+On summon, using Pyromania on an enemy champion or if Annie dies while Tibbers is summoned, Tibbers becomes enraged, ignoring unit collision and gaining 275% bonus attack speed and 100% bonus movement speed which decays over 3 seconds. In addition, Tibbers regenerates 50% of his missing Health and automatically targets Annie's killer if she dies while he's summoned.
+
+ 
+
+While out of combat for at least 5 seconds, Tibbers gains movement speed when moving toward Annie and regenerates 6.0% of his maximum Health every second.
+
+ 
+
+Aphelios - Moonlight Vigil: Fire a concentrated blast of moonlight that explodes on enemy champions. Applies the unique effect of Aphelios' main-hand gun.
+
+ 
+
+Ashe - Enchanted Crystal Arrow: Ashe fires a missile of ice in a straight line that will pass over all other units until it collides with an enemy Champion or leaves the map. If the arrow collides with an enemy Champion, it will deal 200 / 400 / 600 (+100% of ability power) magic damage, stun and add a slow to the champion hit. 
+
+ 
+
+It will also explode after the hit to slow and deal half damage to all other enemies in a small area around the champion hit. The duration of the stun increases the farther the arrow travels before impact and caps at 3.5 seconds. Both slows are equal to Frost Shot's current value and last for 3 seconds.
+
+ 
+
+Aurelion Sol - Voice of Light: Aurelion Sol breathes out a blast of pure starfire, dealing 150 / 250 / 350 (+70% of ability power) magic damage and slowing struck enemies by 40 / 50 / 60% for 2 seconds. Nearby enemies caught in the blast are also knocked back to Aurelion Sol's outer ring.
+
+ 
+
+Azir - Emperor's Divide: Azir calls forth a phalanx of 6 / 7 / 8 shield-wielding soldiers who press forward, knocking enemies back and dealing 175 / 325 / 475 (+60% of ability power) magic damage to them.
+
+ 
+
+When the soldiers finish their charge, they stand as a wall for 5 seconds, blocking enemy champion movement. Allies can pass through the wall. These soldiers cannot be ordered to move or attack.
+
+ 
+
+Bard - Tempered Fate: After a brief delay, Bard places all units in a targeted area - friend or foe, including champions, minions, monsters and turrets - in stasis for 2.5 seconds, making them untargetable and invulnerable but also unable to perform any action.
+
+ 
+
+Blitzcrank - Static Field: Passive: While Static Field is available, Blitzcrank marks enemies he basic attacks, stacking up to 3 times. After 1 second, marked enemies are shocked and take 50 / 100 / 150 (+30% of ability power) magic damage.
+
+ 
+
+Active: Blitzcrank detonates a static field, removing the shields of nearby enemies before dealing 250 / 375 / 500 (+100% of ability power) magic damage to them and silencing them for 0.5 seconds.
+
+ 
+
+Brand - Pyroclasm: Brand launches a fireball at the target enemy that bounces between nearby enemies and Brand up to four times, dealing 100 / 200 / 300 (+25% of ability power) magic damage to enemies each time.
+
+ 
+
+If Pyroclasm's current target becomes invalid, it selects a new target at its remaining bounces. The fireball will bounce to Brand even if he becomes an invalid target while it is currently on a target or is in flight towards him. If there are no nearby valid targets, the fireball fizzles.
+
+ 
+
+Pyroclasm prioritizes enemy champions, then Brand, then any valid bounce target. The fireball bounces to targets regardless of having sight of them or not.
+
+ 
+
+If the target is ablaze, Pyroclasm gives a 30 / 45 / 60% slow on enemies hit for 0.25 seconds. This can affect the same enemy more than once.
+
+ 
+
+Braum - Glacial Fissure: Braum slams his shield into the ground, dealing 150 / 300 / 450 (+60% AP) magic damage to all enemies in a line as well as those in an X-radius area around him. The first champion hit is knocked up for 1-1.5 seconds based on distance from Braum for the first target hit in the fissure, every other target hit or within close vicinity is knocked up for 0.25 seconds.
+
+ 
+
+For the next 4 seconds a field of ice remains, slowing enemies that enter the area by 40 / 50 / 60% for 0.25 seconds.
+
+ 
+
+Caitlyn - Ace in the Hole: Caitlyn takes time to line up the perfect shot, dealing 300 / 525 / 750 (+2.0 per bonus attack damage) physical damage to a single target at a huge range. Enemy champions can intercept the bullet for their ally. It provides vision of the target for the duration.
+
+ 
+
+Camille - Hextech Ultimatum: Camille dashes toward the target enemy champion, becoming untargetable during the leap. When she lands, she creates a locked, hexagonal zone around the target for 2.5 / 3.25 / 4 seconds, knocking away all other nearby enemies on impact.
+
+ 
+
+The target can move freely inside the zone, but cannot escape it through any means.
+
+ 
+
+While within the zone, Camille's basic attacks deal 5 / 10 / 15 (+ 4 / 6 / 8% of target's current health) bonus magic damage.
+
+ 
+
+Hextech Ultimatum's effects end automatically if Camille dies or leaves the area.
+
+ 
+
+Cassiopeia - Petrifying Gaze: Cassiopeia releases a swirl of magical energy from her eyes, dealing 150 / 250 / 350 (+50% of ability power) magic damage to all enemies in front of her. Enemies facing her are stunned for 2 seconds, while enemies facing away are slowed by 40% for the same duration.
+
+ 
+
+Cho'Gath - Feast: After 0.5 seconds, Cho'Gath devours an enemy unit, dealing 300 / 475 / 650 (+50% of ability power) (+10% of bonus health) true damage. Against non-champions, the base damage is increased to 1000. If the target is killed, Cho'Gath grows, gaining 80 / 120 / 160 extra health. Each stack of Feast gives Cho'Gath 4.9 / 6.2 / 7.5 attack range, up to 49 / 62 / 75 bonus range.
+
+ 
+
+Cho'Gath can only gain 6 stacks from minions and non-epic monsters, but Feast can stack infinitely.
+
+ 
+
+Corki - Missile Barrage: Corki fires a missile towards his targeted location that will collide with the first enemy it hits. Each missile deals 90 / 125 / 160 (+0.14 / 0.45 / 0.75 per attack damage) (+20% of ability power) magic damage in an area.
+
+ 
+
+Corki stores one missile every 12 / 11 / 10 seconds up to 7 missiles at any given time. Every 3rd missile will be a Big One, dealing 180 / 230 / 280 (+0.3 / 0.90 / 1.5 per attack damage) (+40% of ability power) in a larger radius than a normal missile. After dying, Corki will respawn with 4 missiles.
+
+ 
+
+Darius - Noxian Guillotine: Darius leaps to an enemy Champion and strikes a lethal blow, dealing 100 / 200 / 300 (+0.75 per bonus attack damage) true damage. This damage increases by 20% for each stack of Hemorrhage on the target up to a maximum of 200 / 400 / 600 (+1.5 per bonus attack damage) true damage.
+
+ 
+
+If Noxian Guillotine is a killing blow, Darius causes all nearby minions and monsters to flee in terror and he can recast the ability for free within the next 20 seconds. This can occur multiple times in succession. At maximum rank, the cooldown will completely reset on kill.
+
+ 
+
+Diana - Moonfall: Diana reveals and draws in nearby enemies up to 225 units toward her location, slowing them by 40 / 50 / 60%% for 2 seconds.
+
+ 
+
+If Diana pulls in one or more enemy champions, the moonlight crashes down onto her after 1 second, dealing 200 / 300 / 400 (+60% of ability power) magic damage in an area around her, increased by 35 / 60 / 85 (+15% of ability power) for each champion pulled beyond the first.
+
+ 
+
+Dr Mundo - Sadism: Dr. Mundo regenerates 50 / 75 / 100% of his max Health over 12 seconds. Additionally, he gains 15 / 25 / 35% movement speed for the duration.
+
+ 
+
+Draven - Whirling Death: Draven hurls two massive axes dealing 175 / 275 / 375 (+1.1 / 1.3 / 1.5 per bonus attack damage) physical damage to each unit struck. Deals 8% less damage per unit hit, down to a minimum of 40%. 
+
+ 
+
+This resets when Whirling Death changes direction. Whirling Death slowly reverses direction and returns to Draven after striking an enemy champion, or upon reactivation, or upon reaching the boundaries of the map.
+
+Ekko - Chronobreak: Ekko shatters his timeline, becoming untargetable and teleporting him back to wherever he was 4 seconds ago. Ekko heals himself for 100 / 150 / 200 (+60% of ability power) (+20% of the damage taken over the last 4 seconds), and deals 150 / 300 / 450 (+150% of ability power) magic damage to all nearby enemies on arrival.
+
+ 
+
+Chronobreak's heal is increased by 3% for each 1% of maximum health lost in the last 4 seconds.
+
+ 
+
+Chronobreaking through Parallel Convergence will trigger the stun and shield.
+
+ 
+
+Elise - Spider Form/Human Form: Spider Form: Elise transforms into a menacing spider with new abilities. While in Spider Form, Elise deals 10 / 20 / 30 / 40 (+20% of ability power) bonus magic damage, heals herself for 4 / 8 / 12 / 16 (+10% of ability power) on attack and gains 25 Movement Speed.
+
+ 
+
+Human Form: Elise transforms into a human form with new abilities.
+
+ 
+
+Each level of her ultimate allows Elise to summon an additional spiderling up to a maximum of 2 / 3 / 4 / 5. Each spiderling has 85 / 95 / 105 / 115 / 125 / 135 / 145 / 160 / 175 / 190 / 210 / 230 / 250 / 275 / 300 / 325 / 355 / 390 health, deals 10 / 15 / 20 / 25 (+15% of ability power) magic damage on attack and takes 10 / 20 / 30 / 40 % less damage from multi-target abilities.
+
+ 
+
+Evelynn - Last Caress: Evelynn becomes untargetable as she reveals her true form to all enemies in front of her, before blinking back 400 units.
+
+ 
+
+Enemies caught in her reveal are devastated, taking 125 / 250 / 375 (+75% of ability power) magic damage, which is increased by 140% versus enemies below 30% of their maximum health.
+
+ 
+
+Ezreal - Trueshot Barrage: Ezreal channels for 1 second to fire a powerful barrage of energy missiles, which deal 350 / 500 / 650 (+1.0 per bonus attack damage) (+90% of ability power) magic damage to each enemy unit they pass through. Minions and non-epic monsters take 50% reduced damage.
+
+ 
+
+Fiddlesticks - Crowstorm: After channeling for 1.5 seconds, Fiddlesticks blinks to the target location with a murder of crows flying wildly around it for 5 seconds, dealing 31.25 / 56.25 / 81.25 (+11.25% of ability power) magic damage to nearby enemies every 0.25 seconds for a total of 625 / 1125 / 1625 (+225% of ability power) magic damage.
+
+ 
+
+Fiora - Grand Challenge: Passive: Duelist's Dance's bonus movement speed is increased to 20 / 25 / 30%.
+
+ 
+
+Active: Fiora targets an enemy champion, highlighting all four of their Vitals and granting Duelist's Dance's movement speed bonus for the next 8 seconds. If she's able to destroy all four weak spots, or if she destroys at least one before her target dies, Fiora creates a large zone under her enemy that heals Fiora and her allied champions for 80 / 110 / 140 (+0.6 per bonus attack damage) Health per second over the next 2 seconds, plus 1 second for every Vital Fiora strikes beyond the first.
+
+ 
+
+Fizz - Chum the Waters: Fizz throws down a lure in the target direction that attracts a shark, causing it to emerge after 2 seconds, dealing magic damage, knocking aside surrounding enemies and slowing them for 2 seconds. The further the lure travels in its initial flight, the larger the shark that is attracted, increasing its slow, eruption radius and knockback distance.
+
+ 
+
+If Chum the Waters travels less than 455 units, it will summon a Guppy Shark, dealing 150 / 250 / 350 (+80% of ability power) magic damage in a 200 area of effect, knocking back enemies 150 units and slowing them by 40%.
+
+ 
+
+If Chum the Waters travels between 455 and 910 units, it will summon a normal shark, dealing 225 / 325 / 425 (+100% of ability power) magic damage in a 325 area of effect, knocking back enemies 250 units and slowing them by 60%.
+
+ 
+
+If Chum the Waters travels between at least 910 units, it will summon a massive Gigalodon Shark, dealing 300 / 400 / 500 (+120% of ability power) magic damage in a 450 area of effect, knocking back enemies 350 units and slowing them by 80%.
+
+ 
+
+If an enemy champion intercepts the lure as it flies, it binds to them and causes the shark to emerge at their position. The lure's holder is slowed for the duration and knocked up for 1 second instead of away.
+
+ 
+
+Galio - Hero's Entrance: Galio designates the target allied champion's location at the time of cast as his landing spot, granting Shield of Durand's passive magic damage shield to all allied champions in the area he casted it at for 5 seconds, and channels for 1.25 seconds.
+
+ 
+
+Galio then becomes untargetable and dashes to them, becoming cc-immune briefly and dealing 150 / 250 / 350 (+70% of ability power) magic damage to all nearby enemies on impact and knocking them up for 0.75 seconds.
+
+ 
+
+Gangplank - Cannon Barrage: Active: Gangplank signals his ship to fire 12 waves of cannonballs upon the target area over 8 seconds in clusters of 3 every 2 seconds, revealing it for the duration. Each wave deals 40 / 70 / 100 (+10% of ability power) magic damage and slows enemies hit by 30% for 0.5 seconds.
+
+ 
+
+Gangplank can purchase upgrades to his ship in the store at the cost of 500 Silver Serpents each, which improve Cannon Barrage:
+
+- Death's Daughter: An initial mega-cannonball lands in the center of the area of effect, dealing a cluster's worth of true damage and slowing enemies within by 60% for 1.5 seconds.
+
+- Raise Morale: Allies within the area gain 30% bonus movement speed, persisting for 2 seconds after leaving it. Gangplank can also benefit from this effect.
+
+- Fire At Will: Fires 6 additional waves with increasing rate of fire over the duration.
+
+ 
+
+Garen - Demacian Justice: Garen gains vision of his target for 1 second and brings down Demacian Justice on them after a 0.5 second delay, dealing true damage to them equal to 150 / 300 / 450 plus 20 / 25 / 30% of the target's missing health.
+
+ 
+
+Gnar - GNAR!: Passive: Hyper's movement speed bonus is increased.
+
+ 
+
+Active: Gnar knocks all nearby enemies in the specified direction, dealing 200 / 300 / 400 (+100% of ability power) (+0.5 per bonus attack damage) physical damage and slowing them by 60% for 1.25 / 1.5 / 1.75 seconds. Any enemy that hits terrain takes 50% increased damage and is stunned instead of slowed.
+
+ 
+
+Gragas - Explosive Cask: Gragas throws his cask to a location, which explodes on impact, dealing 200 / 300 / 400 (+80% of ability power) magic damage to all units struck, knocking them back.
+
+ 
+
+Graves - Collateral Damage: Graves fires an explosive shell in a straight line, dealing 250 / 400 / 550 (+1.5 per bonus attack damage) physical damage to the first target it hits. After hitting a champion or reaching the end of its range, the shell explodes dealing 200 / 320 / 440 (+1.2 per bonus attack damage) physical damage in a cone behind the target.
+
+ 
+
+Graves recoils 300 units upon firing.
+
+ 
+
+Hecarim - Onslaught of Shadows: Hecarim summons spectral riders and charges forward, dealing 150 / 250 / 350 (+100% of ability power) magic damage in a line. Hecarim creates a shockwave when he finishes his charge, causing enemies to flee in terror away from Hecarim for 0.75-2 seconds based on the distance Hecarim traveled.
+
+ 
+
+Heimerdinger - UPGRADE!!!: Heimerdinger empowers his next basic ability, also making it free to cast. Empowered abilities share the same cooldown as their basic form. Heimerdinger can activate UPGRADE!!! again after 3 seconds of activating it to cancel its effects. Canceling UPGRADE!!! puts it on a 3 second static cooldown. UPGRADE!!! will only go on cooldown if Heimerdinger used an empowered ability.
+
+ 
+
+Illaoi - Leap of Faith: Illaoi leaps into the air before slamming her idol into the ground, dealing 150 / 250 / 350 (+0.5 per bonus attack damage) physical damage to all nearby enemies and summoning a Tentacle for every enemy champion or Spirit hit (max 6 Tentacles).
+
+ 
+
+For the next 8 seconds, Tentacles swing 50% faster and are untargetable while Harsh Lesson's cooldown is halved.
+
+ 
+
+Irelia - Vanguard's Edge: Irelia launches a barrage of blades through a wide line in the target direction, exploding outwards upon hitting a champion, dealing 125 / 250 / 375 (+70% of ability power) magic damage to all enemies struck.
+
+ 
+
+The blades form into a spade-shaped perimeter for 2.5 seconds. Enemies that pass the blades are dealt 125 / 250 / 375 (+70% of ability power) magic damage, and are slowed by 90% for 1.5 seconds.
+
+Ivern - Daisy!: Ivern summons his sentinel friend Daisy, who remains on the field for 60 seconds as a controllable minion. Daisy's attacks on enemy champions apply stacks of Flower Power, resetting whenever Daisy attacks a new target. Versus a target with 2 stacks, Daisy's next attack gains bonus attack range and sends forward a shock wave that damages and knocks up all enemies hit in a line for 1 second. Flower Power cannot happen again for 3 seconds.
+
+ 
+
+Daisy's stats:
+
+HP: 1250 / 2500 / 3750 (+50% of ability power)
+
+Magic Damage: 100 / 125 / 175 (+25% of ability power)
+
+Attack Speed: 0.7 + 30 / 50 / 70%
+
+Range: 150
+
+Armor: 15 / 40 / 90 (+5% of ability power)
+
+Magic resist: 15 / 40 / 90 (+5% of ability power)
+
+Movement speed: 419 (+25% for the first 5 seconds after spawning)
+
+ 
+
+While Daisy is active, Daisy can be used to move her to the target location.
+
+ 
+
+Janna - Monsoon: Janna knocks surrounding enemies back 875 units, stunning them for 0.5 seconds, and channels healing winds which restore 100 / 150 / 200 (+50% of ability power) Health to nearby allies each second for 3 seconds.
+
+ 
+
+Jarvan IV - Cataclysm: Jarvan IV heroically leaps to an enemy champion, creating a circle of impassable terrain around them for 3.5 seconds and dealing 200 / 325 / 450 (+1.5 per bonus attack damage) physical damage to all enemies within. Jarvan IV can destroy the area by activating it again. Champions can still leave or enter the area by using teleport abilities.
+
+ 
+
+Jax - Grandmaster's Might: Passive: Hitting 3 consecutive times enhances Jax's next attack for 100 / 140 / 180 (+70% of ability power) bonus magic damage.
+
+ 
+
+Active: Jax gains 30 / 50 / 70 (+50% of his bonus attack damage) armor and 30 / 50 / 70 (+20% of his ability power) magic resist for 8 seconds.
+
+ 
+
+Now gains effects from Guinsoo's Rageblade
+
+ 
+
+Jayce - Mercury Hammer: Transforms the Mercury Cannon into the Mercury Hammer gaining new abilities and increases Jayce's Armor and Magic Resist by 5 / 15 / 25 / 35. The first attack in this form deals 25 / 65 / 105 / 145 (+0.25 bonus attack damage) additional magic damage.
+
+ 
+
+Jhin - Curtain Call: Jhin sets up and channels for 10 seconds, enabling him to fire 4 super shots at extreme range in a cone in front of him. The shots stop on the first champion hit, slowing it by 80% for 0.5 seconds and dealing 50 / 125 / 200 (+0.2 per attack damage) physical damage, increased by 3% for each 1% Health the target is missing. The 4th shot crits for 100 / 250 / 400 (+0.5 per attack damage) physical damage.
+
+ 
+
+Jinx - Super Mega Death Rocket: Jinx fires a rocket that gains damage over the first second it travels. It explodes on the first enemy champion hit, dealing a minimum of 25 / 35 / 45 (+0.15 per bonus attack damage) and a maximum of 300 / 400 / 500 (+1.5 per bonus attack damage) physical damage plus 25 / 30 / 35% of the target's missing health (max 300 damage to minions and monsters). Nearby enemies take 80% damage.
+
+ 
+
+Kai'Sa - Killer Instinct: Kai'Sa dashes to a target location near an enemy champion with Plasma and shields herself for 75 / 100 / 125 (+1.0 / 1.5 / 2.0 per attack damage) (+75% of ability power) for 2 seconds.
+
+ 
+
+Kalista - Fate's Call: Kalista draws her Oathsworn ally next to her, making them untargetable and disabling their spells for 4 seconds. Kalista's Oathsworn ally must be within 1100 range to cast Fate's Call.
+
+ 
+
+During Fate's Call, Kalista's Oathsworn can right-click a target location to dash there, stopping at the first enemy hit, knocking up all surrounding enemies and landing themselves at their maximum attack range from the target.
+
+ 
+
+Karma - Mantra: Karma empowers her next ability cast within the next 8 seconds, adding an additional effect. Empowered abilities share the same cooldown as their basic form.
+
+ 
+
+Karma begins with one rank in Mantra and can increase it at levels 6, 11, and 16. Ranks in Mantra improve the additional effects of empowered abilities.
+
+ 
+
+Karthus - Requiem: After channeling for 3 seconds, Karthus deals 200 / 350 / 500 (+75% of ability power) magic damage to all enemy champions (regardless of distance).
+
+ 
+
+Kassadin - Riftwalk: Kassadin teleports to a nearby location dealing 80 / 100 / 120 (+40% of ability power) (+2% of maximum mana) magic damage to surrounding enemy units. Additionally, each subsequent Riftwalk in the next 15 seconds costs double the amount of mana and deals 40 / 50 / 60 (+10% of ability power) (+1% of maximum mana) additional damage. The cost and damage can stack up to 4 times.
+
+ 
+
+Kassadin's mana debuff duration now displays on R's border.
+
+ 
+
+Katarina - Death Lotus: Katarina channels for 2.5 seconds, rapidly spinning in place to throw a dagger every 0.166 seconds to up to 3 nearby enemy champions. Each dagger deals 25 / 37.5 / 50 (+19% of ability power) magic damage and 15% bonus AD (+9.9% attack speed) physical damage, applies on-hit effects at 25% effectiveness, and inflicts 60% Grievous Wounds on the target for 3 seconds.
+
+ 
+
+A nearby enemy champion is required to cast this ability. Katarina does not need to have sight of the target to hit them, and she will prioritize the closest ones.
+
+ 
+
+Kayle - Divine Judgement: Kayle conjures swords around the target allied champion or herself over 1.5 seconds, after which she brings them crashing to the ground, dealing 200 / 350 / 500 (+ 100% bonus AD) (+80% of ability power) magic damage to all enemies in the area.
+
+ 
+
+Divine Judgment also grants the target invulnerability for 2 / 2.5 / 3 seconds. Kayle cannot attack while channeling this ability.
+
+ 
+
+Kennen - Slicing Maelstrom: Kennen summons a magical storm around himself for 3 seconds, gaining 20 / 40 / 60 bonus armor and magic resistance and dealing 40 / 75 / 110 (+20% of ability power) magic damage to all enemies within range every 0.5 seconds.
+
+ 
+
+Each maelstrom hit applies a Mark of the Storm, up to a maximum of 3.
+
+ 
+
+Slicing Maelstrom deals 10% increased damage with each successive strike against a target, up to a maximum of 150% damage with one strike.
+
+ 
+
+Kha'Zix - Void Assault: Passive: Each rank of Void Assault allows Kha'Zix to evolve one of his active abilities, granting it an additional effect.
+
+ 
+
+Active: Kha'Zix enters stealth for 1.25 seconds ignoring unit collision and gains Unseen Threat, gaining 40% movement speed. Kha'Zix can cast Void Assault again within 10 seconds after activation. There is a 2 second cooldown between each cast of Void Assault.
+
+ 
+
+Evolved Adaptive Cloaking: Void Assault's stealth duration is increased to 2 seconds per cast and the number of casts is increased to 3.
+
+ 
+
+Kindred - Lamb's Respite: Lamb blesses the ground under herself for 4 seconds, creating an area in which no living things, ally or enemy, can die. Upon reaching 10% of their maximum health, units become immune to further damage or healing. When the blessing ends, all living things inside the area heal for 250 / 325 / 400.
+
+ 
+
+Kled - CHAAAAAAARGE!!!: Mounted: Kled and Skaarl charge toward the target location, automatically navigating around terrain along the way.
+
+ 
+
+While charging, the duo gain bonus movement speed and a shield, both increasing over the duration.
+
+ 
+
+The shield builds up to 200 / 300 / 400 (+3.0 per bonus attack damage) and lasts for 2 seconds upon finishing the charge. The duo trails a directional draft on their wake that lasts for 6 seconds and grants the same movement speed to all allied champions who follow their lead.
+
+ 
+
+Skaarl homes in on the first enemy champion encountered, knocking them back and dealing 12 / 15 / 18% (+12% per 100 attack damage) of the target's max. health in physical damage based on the distance traveled.
+
+ 
+
+Kog'Maw - Living Artillery: Kog'Maw fires a living artillery shell at a great distance. After a 0.6 second delay, the artillery falls dealing 100 / 140 / 180 (+35% of ability power) (+0.65 per bonus attack damage) magic damage and reveals targets for 2 seconds. Each subsequent Living Artillery in the next 8 seconds costs 40 additional mana (max 400).
+
+ 
+
+Living Artillery deals 150% damage to enemies approaching 40% health and 200% to enemies between below 25% health.
+
+ 
+
+Kog'Maw's mana debuff duration now displays on R's border.
+
+ 
+
+LeBlanc - Mimic: LeBlanc casts a mimicked version of her most recently used basic ability, applying the same effects and dealing modified magic damage.
+
+ 
+
+Mimic Sigil of Malice: Deals 70 / 140 / 210 (+40% of ability power) magic damage and double damage upon triggering the mark.
+
+ 
+
+Mimic Distortion: Deals 150 / 300 / 450 (+75% of ability power) magic damage.
+
+ 
+
+Mimic Ethereal Chains: Deals 70 / 140 / 210 (+40% of ability power) magic damage and double damage upon rooting.
+
+ 
+
+Lee Sin - Dragon's Rage: Lee Sin performs a powerful roundhouse kick launching his target back 1200 units, dealing 175 / 400 / 625 (+2.0 per bonus attack damage) physical damage to the target and any enemies they collide with. Enemies the target collides with are knocked into the air for a short duration and take 12 / 15 / 18% of the target's bonus health as physical damage.
+
+ 
+
+Leona - Solar Flare: After a brief delay, Leona calls down a beam of solar energy dealing 100 / 175 / 250 (+80% of ability power) magic damage and slowing enemies by 80% for 1.5 seconds. Enemies in the center of the beam are stunned instead of slowed.
+
+ 
+
+Lillia - Lilting Lullaby: Lillia casts a magical lullaby over all targetable enemy champions affected by Dream Dust, rendering them drowsy for 1.5 seconds, which gradually slows them, after which they fall asleep for 2 / 2.5 / 3 seconds.
+
+ 
+
+The next non-persistent non-minion damage taken by the sleeping targets consumes the debuff to deal an additional 100 / 150 / 200 (+30% of ability power) magic damage.
+
+ 
+
+Target Range: Global
+
+ 
+
+Lissandra - Frozen Tomb: Enemy Cast: Lissandra freezes the target enemy champion, stunning it for 1.5 seconds.
+
+ 
+
+Self Cast: Lissandra encases herself in dark ice for 2.5 seconds, becoming untargetable and invulnerable but unable to take any actions. Lissandra also gets healed for 100 / 150 / 200 (+30% of ability power) (+1% per 1% of missing health) health over the duration.
+
+ 
+
+After casting, dark ice spreads from Lissandra's frozen target after a 0.5-second delay, dealing 150 / 250 / 350 (+75% of ability power) magic damage to enemies. The ice lasts for 3 seconds and slows enemy Movement Speed by 30 / 52.5 / 75%.
+
+ 
+
+Lucian - The Culling: Lucian starts firing 22 / 28 / 34 shots in the target direction for 3 seconds, each shot dealing 20 / 40 / 60 (+0.25 per attack damage) (+10% of ability power) physical damage to the first enemy it hits. The Culling is considered a channeled ability and it can be interrupted, but Lucian can move freely (including movement abilities) without interrupting it himself.
+
+ 
+
+Reactivate The Culling to cancel the ability early.
+
+ 
+
+The Culling deals double damage to minions.
+
+ 
+
+Lulu - Wild Growth: Lulu enlarges her ally, knocking nearby enemies into the air. For 7 seconds her ally gains 300 / 450 / 600 (+50% of ability power) bonus health and slows nearby enemies by 30 / 45 / 60% for .25 seconds. This slow duration is refreshed if enemies stay near Wild Growth's aura.
+
+ 
+
+Lux - Final Spark: After gathering energy for a half second, Lux fires a beam of light that deals 300 / 400 / 500 (+100% of ability power) damage to all targets in the area and reveals it. It ignites and refreshes Lux's Illumination debuff if it hits enemies already afflicted.
+
+ 
+
+Lux can Flash while casting Final Spark though her ultimate won't follow her when she flashes.
+
+ 
+
+Malphite - Unstoppable Force: Malphite charges towards the target area, dealing 200 / 300 / 400 (+80% of ability power) magic damage, knocking enemies into the air and stunning for 1.5 seconds in 325 area around impact. Malphite cannot be interrupted during this charge.
+
+ 
+
+Malzahar - Nether Grasp: Malzahar suppresses a target champion for 2.5 seconds, dealing 125 / 200 / 275 (+80% of ability power) to the target and creating a zone of negative energy around them for 5 seconds, which deals 10 / 15 / 20% (+2.5% per 100 ability power) maximum health as magic damage over the duration to all targets in the Null Zone for the duration.
+
+ 
+
+Maokai - Nature's Grasp: Maokai summons a colossal wall of 5 thorny brambles that slowly advances forward, each stopping at the first enemy champion they collide with, dealing 150 / 225 / 300 (+75% of ability power) magic damage and rooting them for 0.8-2.6 seconds (based on distance traveled).
+
+ 
+
+Master Yi - Highlander: Passive: Champion kills and assists reduce the cooldowns of Master Yi's other abilities by 70%.
+
+ 
+
+Active: For 7 seconds, Master Yi gains 35 / 45 / 55% bonus movement speed and 25 / 45 / 65% attack speed and becomes immune to any slows. Master Yi also ignores unit collision for the duration of this effect. While active, kills and assists extend the duration by 7 seconds.
+
+ 
+
+Miss Fortune - Bullet Time: Miss Fortune channels a barrage of bullets into a cone in front of her every .25 seconds for a 3 second duration, dealing (+0.75 per attack damage) (+20% of ability power) physical damage per wave. She fires 12 / 14 / 16 waves in total and each wave will deal physical damage to all enemies caught in the area. Each wave of Bullet Time can critically strike, dealing 120% damage.
+
+Mordekaiser - Realm of Death: Mordekaiser slows a target enemy champion by 75% for 0.5 seconds. If the target is still in range and targetable by the end of the duration, Mordekaiser banishes himself and the target to the Death Realm for 7 seconds. Champions outside of the Death Realm cannot enter or interact with the champions that are within.
+
+ 
+
+Mordekaiser steals 10% of the target's current size, armor, magic resistance, health, attack damage, ability power and attack speed for the duration of the ability. If Mordekaiser kills his target, he consumes their soul, keeping the bonus stats until they respawn.
+
+ 
+
+Morgana - Soul Shackles: After a 0.5-second delay, Morgana latches chains of energy onto nearby enemy champions, dealing 150 / 225 / 300 (+70% of ability power) magic damage.
+
+ 
+
+The tethers grant true sight of affected enemies and slow them by 20%. Additionally, Morgana gains 5 / 30 / 55% bonus movement speed towards tethered enemies.
+
+ 
+
+Targets who did not leave the tether range after 3 seconds are revealed and stunned for 1.5 seconds and dealt the same magic damage again.
+
+ 
+
+Nami - Tidal Wave: Summons a Tidal Wave outward from Nami's position.
+
+ 
+
+The Tidal Wave briefly knocks up enemies that it comes in contact with, slowing them by 50 / 60 / 70% and dealing 150 / 250 / 350 (+60% of ability power) magic damage. The slow duration increases based on how far the Tidal Wave has traveled, with a minimum duration of 2 seconds and a maximum of 4 seconds.
+
+ 
+
+Nasus - Fury of the Sands: Nasus empowers himself for 15 seconds, gaining 300 / 450 / 600 bonus health, 40 / 55 / 70 bonus armor and bonus magic resistance, 30% increased size, and 50 bonus attack range for the duration.
+
+ 
+
+While Nasus is empowered, he deals 3 / 4 / 5% (+1% per 100 ability power) of the target's maximum health magic damage to nearby enemies each second, capped at 240 per second, and Siphoning Strike's cooldown is halved.
+
+ 
+
+Nautilus - Depth Charge: Nautilus fires a shockwave that chases an enemy champion. This deals 125 / 175 / 225 (+40% of ability power) magic damage to enemies it passes through and 150 / 275 / 400 (+80% of ability power) magic damage to its target, knocking each enemy hit into the air for 1 second before stunning them for 1 / 1.5 / 2 seconds.
+
+ 
+
+Neeko - Pop Blossom: Neeko begins charging herself with spiritual essence over 1.25 seconds. If Neeko is disguised, enemies won't see her channel.
+
+ 
+
+Neeko shields herself for 75 / 100 / 125 (+75% of ability power) for a few seconds, increased by 40 / 60 / 80 for each enemy champion nearby, as she leaps into the air for 0.6 seconds.
+
+ 
+
+Upon landing, Neeko bursts with spiritual energy, dealing 250 / 425 / 650 (+130% of ability power) magic damage and stunning nearby enemies for 1.25 seconds.
+
+ 
+
+Nidalee - Aspect of the Cougar: Passive: Each additional rank increases the effectiveness of Nidalee's cougar abilities.
+
+ 
+
+Nidalee transforms into a vicious cougar, gaining a new set of abilities.
+
+ 
+
+Nocturne - Paranoia: Nocturne reduces the sight radius of all enemy champions and removes their ally vision for 6 seconds, this includes champions, minions, wards, towers and clairvoyance. He can then launch himself at an enemy champion (2500 / 3250 / 4000 range), dealing 150 / 275 / 400 (+1.2 per bonus attack damage) physical damage.
+
+ 
+
+Nunu and Willump - Absolute Zero: Nunu & Willump sap heat from the area around them for up to 3 seconds. Moving ends Absolute Zero's effects immediately, and the area is invisible if the duo is not revealed.
+
+ 
+
+The duo gains a shield for 65 / 75 / 85 (+150% of ability power) (+30 / 40 / 50% bonus health) while channeling that refreshes each second, and enemies within the frosted area are slowed by 50-95% (based on channel time).
+
+ 
+
+Enemies caught in the frozen area when the channel ends or is interrupted take up to 625 / 950 / 1275 (+250% of ability power) magic damage (based on channel time).
+
+ 
+
+Olaf - Ragnarok: Passive: Olaf gains 20 / 30 / 40 armor and magic resist.
+
+ 
+
+Active: Breaks any crowd control effects and gains 15 / 20 / 25 (+ 30% total attack damage) bonus attack damage, plus immunity to crowd control for 6 seconds. Olaf loses the passive bonus armor and magic resist, but gains 20 / 45 / 70% bonus movement speed when moving towards enemies for 1 second.
+
+ 
+
+Orianna - Command Shockwave: Orianna commands her ball to emit a shockwave after a short delay, flinging affected enemies in the vicinity into the air a set distance (350 units) towards, and possibly over, her ball. Deals 200 / 275 / 350 (+80% of ability power) damage.
+
+ 
+
+Ornn - Call of the Forge God: First Cast: Ornn summons an elemental at maximum range in the target direction that stampedes toward him, dealing 125 / 175 / 225 (+20% of ability power) magic damage and slowing enemies hit by up to 40 / 60 / 80% for 2 seconds based on distance traveled (minimum 10% slow).
+
+ 
+
+While stampeding, Ornn can re-activate Call of the Forge God.
+
+ 
+
+Second Cast: Ornn dashes forward in the target direction. If Ornn collides with the elemental, he headbutts it, sending it stampeding again in the new direction and empowering it to knock up enemies hit for 1 second, reduced to 0.5 seconds after the first enemy champion hit. Call of the Forge God can affect enemies twice.
+
+ 
+
+Pantheon - Grand Starfall: Pantheon gains armor penetration.
+
+ 
+
+ACTIVE: Pantheon channels for 2 seconds, then leaps high into the air, vanishing and becoming immune to crowd control until he reappears. While in the air, Pantheon channels again for 2.45 seconds and grants sight around the target location 0.5 seconds into the channel.
+
+ 
+
+After 1.125 seconds into the channel, Pantheon prepares for landing by marking his destination with his spear over 0.1625 seconds. The spear deals 40−190 (+1.15 per attack damage) physical damage to enemies in an area (depending on Comet Spear's rank) and slows them by 50% for 2 seconds.
+
+ 
+
+Over the remaining 1.1625 seconds, Pantheon crashes down and creates a shockwave that travels toward the target location, dealing 300 / 500 / 700 (+100% of ability power) magic damage to all enemies within its path, decreased by up to 50% for those hit at the edge of the area. Upon completion of the channel, Pantheon reappears at the target location and gains full stacks of Mortal Will.
+
+ 
+
+Grand Starfall is put on a 30 second cooldown if the first channel is canceled. Grand Starfall will cast at max range if the target location is beyond it.
+
+ 
+
+Poppy - Keeper's Verdict: First cast: Poppy channels for up to 4 seconds, retaining the ability to move but slowing herself by 15% for the duration. Keeper's Verdict's cooldown is reduced by 75% if its channel is canceled.
+
+ 
+
+Second cast: Poppy smashes the ground, sending out a shockwave. When it hits an enemy champion, a massive hammer erupts from the ground, dealing 200 / 300 / 400 (+0.9 per bonus attack damage) physical damage to all enemies around it and knocking them a large distance toward their Summoning Platform.
+
+ 
+
+Poppy has sight of airborne enemies and they are rendered untargetable for the duration, with the distance increasing based on how long Keeper's Verdict was channeled. Releasing the ability instantly cancels the channel and knocks up all enemies around Poppy for 0.75 seconds instead, but only dealing 50% damage. The knockup does not make enemies untargetable.
+
+ 
+
+Pyke - Death from Below: After a 0.75-second delay, Pyke strikes all enemy champions in an X, blinking to and executing targets below 250-550 (based on level) (+0.8 per bonus attack damage) (+1.5 per 1 lethality) health while dealing 50% of the amount as physical damage to enemies not within the threshold for execution.
+
+ 
+
+When an enemy champion dies in the X from any source, Pyke and an assisting ally both receive an additional Cut equal to full kill gold, and Pyke may re-cast Death From Below again within 20 seconds at no cost.
+
+ 
+
+Qiyana - Supreme Display of Talent: Qiyana creates a shockwave, knocking back enemies. Any River, Brush, or Wall hit by the shockwave then explodes, dealing 100 / 170 / 240 (+1.7 per bonus attack damage) (+10 / 12 / 14% of target's maximum health) physical damage and stunning enemies for between 0.5 seconds and 1 second depending on proximity.
+
+ 
+
+Quinn - Behind Enemy Lines: After channeling for 2 seconds, Quinn calls upon Valor to assist her. While together, the two gain bonus movement speed equal to 70 / 100 / 130% of their total movement speed and can cast Skystrike by taking an offensive action or reactivating Behind Enemy Lines.
+
+ 
+
+Basic attacking or dealing direct damage causes Quinn to swap in. Taking damage from non-minions while flying removes Behind Enemy Lines' bonus movement speed for 3 seconds.
+
+ 
+
+Behind Enemy Lines is automatically cast when returning to the Summoning Platform.
+
+ 
+
+Rakan - The Quickness: Rakan gains 75% bonus movement speed for the next 4 seconds, dealing 100 / 200 / 300 (+50% of ability power) magic damage to each enemy he touches and charming them for 1 / 1.25 / 1.5 seconds. Enemies can only be affected once. The first champion charmed grants Rakan 150% decaying movement speed.
+
+ 
+
+Rammus - Tremors: Rammus creates tremors beneath him for 8 seconds, dealing 30 / 60 / 90 (+20% of ability power) magic damage per second to nearby units and double that damage to structures. Affected units are slowed by 8 / 10 / 12% for 1.5 seconds. Subsequent tremors add an additional stack and refresh the slow duration (max slow: 64 / 80 / 96%). Maximum magic damage to units is 240 / 480 / 720 (+160% of ability power). Rammus can move, attack and use other abilities while Tremors is in effect.
+
+ 
+
+Rek'Sai - Void Rush: Passive: Rek'Sai's basic attacks and damaging abilities mark enemy champions as Prey for 5 seconds.
+
+ 
+
+Active: Rek'Sai selects a Prey-marked enemy, burrowing after a 0.35 second cast time before emerging from underground and leaping at her target after an additional 0.75 seconds, dealing 100 / 250 / 400 (+1.75 per bonus attack damage) (+20 / 25 / 30% of target's missing health) physical damage.
+
+ 
+
+Rek'Sai is unstoppable during both the cast and leap.
+
+ 
+
+Rell - Magnet Storm: Rell erupts with magnetic fury, pulling all nearby enemies towards her and creating a field of gravitational force around her for the next 2 seconds that deals 15 / 25 / 35 (+8.75% of ability power) magic damage to nearby enemies every 0.25 seconds over the duration and continuously drags them towards her.
+
+ 
+
+Renekton - Dominus: Renekton empowers himself with dark energies, gaining 20 fury, increased size and 250 / 500 / 750 health for 15 seconds. While empowered, he deals 40 / 80 / 120 (+10% of ability power) magic damage to nearby enemies and generates 5 Fury per second.
+
+ 
+
+Rengar - Thrill of the Hunt: Rengar activates his predatory instincts, becoming camouflaged after 2 seconds for 12 / 16 / 20 seconds. While active, Rengar gains 40 / 50 / 60% bonus movement speed and vision of the nearest enemy champion within 2500 / 3000 / 3500 range, revealing them for the duration of the ability. Rengar can leap without being in brush during this time, dealing 150% of his total attack damage and shredding 12 / 18 / 24 of the target's armor for 4 seconds. Attacking or using abilities ends Thrill of the Hunt.
+
+ 
+
+Eyes appear over the head of the target Rengar gains vision of when Rengar is within 1600 range of his target. Enemies within 1200 range of the target champion will also see the eyes above the target's head.
+
+ 
+
+The cooldown for Thrill of the Hunt begins after Rengar loses his camouflage.
+
+ 
+
+Riven - Blade of the Exile: Riven's sword reforms, giving her a bonus 20% Attack Damage, extended range on her damaging abilities and basic attacks for 15 seconds. She is also granted the ability to use Wind Slash once for the duration.
+
+ 
+
+Rumble - The Equalizer: Rumble deploys a barrage of rockets 1000 units down the target path, landing in a line over 1 second and lasting for 5 seconds. Enemies within the line of rockets take 140 / 210 / 280 (+35% of ability power) magic damage every second and are slowed by 35%.
+
+ 
+
+Ryze - Realm Warp: Passive: Increases Overload's damage against targets marked with Spell Flux by 40 / 70 / 100%.
+
+ 
+
+Active: Ryze opens a portal to a nearby location. After 2 seconds, all allied units within the portal's sphere are warped to the target location.
+
+ 
+
+If Ryze becomes unable to cast or move, Realm Warp is cancelled.
+
+ 
+
+Samira - Inferno Trigger: Samira unleashes a torrent of shots from her weapons, rapidly shooting at all nearby enemies every 0.2 seconds over 2 seconds, slowing herself by 25% and dealing 0 / 10 / 20 (+0.5 per attack damage) physical damage with each shot, reduced by 75% against minions.
+
+ 
+
+Each shot can critically strike for 100% bonus physical damage and applies life steal at 66.6% effectiveness.
+
+ 
+
+Inferno Trigger cannot be cast unless the Style cost is satisfied (having Style rank S), and will reset the grade back to 0 stacks when the effect ends.
+
+ 
+
+Samira cannot attack nor cast Flair or Blade Whirl during Inferno Trigger, but she is still able to move. Inferno Trigger will end prematurely by all forms of interrupting crowd control.
+
+ 
+
+Cost: 100/50/0 + Rank S (at levels 6 / 11 / 16),
+
+ 
+
+Sejuani - Glacial Prison: Sejuani throws a True Ice bola in a line, dealing 125 / 150 / 175 (+40% of ability power) magic damage and stunning for 1 second the first enemy champion that collides with.
+
+ 
+
+Bolas are empowered after traveling 400 distance, increasing their damage to 200 / 300 / 400 (+80% of ability power) and stun duration to 1.5 seconds. Stunning a target with Glacial Prison triggers Permafrost's per-target stun cooldown.
+
+ 
+
+Empowered bolas also leave behind an ice storm that explodes after a brief delay. The storm lasts 2 seconds and slows enemies by 30% while inside the AoE. The explosion deals 200 / 300 / 400 (+80% of ability power) magic damage and slows enemies by 80% for 1 second.
+
+ 
+
+Senna - Dawning Shadow: Senna reveals herself before firing two beams of spectral light in the target direction, granting sight of the area briefly along its path. The center beam deals 250 / 375 / 500 (+1.0 of attack damage) (+50% of ability power) physical damage to enemy champions hit.
+
+ 
+
+The broad beam gives Senna and allied champions hit a 120 / 160 / 200 (+40% of ability power) (+1.5 per Mist collected) shield for 3 seconds.
+
+ 
+
+The broad beam also collects any Mist Wraiths in the way. 
+
+ 
+
+Seraphine - Encore: Seraphine projects a captivating force in the target direction that deals 150 / 200 / 250 (+60% of ability power) magic damage to all enemies struck and charms them for 1.25 / 1.5 / 1.75 seconds, during which they are also revealed and slowed by 40%, increasing by 15% every 0.25 seconds over the duration, up to 99%.
+
+ 
+
+Encore's projectile resets its remaining travel distance whenever it strikes an allied or enemy champion, excluding Seraphine. Additionally, all struck allied champions gain 4 Notes.
+
+ 
+
+Sett - The Show Stopper: Sett suppresses the target enemy champion and then dashes unstoppably at a fixed distance toward it, carrying it along for 1.5 seconds before slamming it into the ground.
+
+ 
+
+Enemies within the impact area take 200 / 300 / 400 (+1.0 bonus attack damage) (+40 / 50 / 60 percent of primary target's bonus health) in physical damage, which is reduced by up to 40% on the edges, and are slowed by 99% for 1 second.
+
+ 
+
+The dash will prematurely end upon reaching a wall that cannot be dashed through.
+
+ 
+
+Shaco - Hallucinate: Shaco stealths for half a second and creates a clone of himself nearby, which deals 60% of Shaco's damage and receives 50% increased damage. The clone takes double damage from turrets and deals 35% damage to turrets and inhibitors. The clone lasts up to 18 seconds.
+
+ 
+
+On death, the clone deals 150 / 225 / 300 (+70% of ability power) magic damage to nearby enemies, while also leaving behind a nest of three Jack in the Boxes which activate instantly, fearing nearby enemies for 1 second.
+
+ 
+
+The nest lasts for up to 6 seconds, during which the boxes attack nearby enemies, dealing 10 / 20 / 30 (+10% of ability power) magic damage per attack. This damage is increased to 25 / 50 / 75 (+15% of ability power) magic damage per attack if the boxes attack a single unit.
+
+ 
+
+Shen - Stand United: Shen channels for 3 seconds, shielding the target allied champion for 5 seconds. The shield blocks 175 / 350 / 525 (+130% of ability power) damage, scaling up to 280 / 560 / 840 (+130% of ability power) based on the target ally's current health (shield maxes out at 40% health).
+
+ 
+
+Upon completing the channel, Shen and his Spirit Blade teleport to the target ally's location.
+
+ 
+
+Shyvana - Dragon's Descent: Passive: Shyvana's basic attacks generate 2 fury, even in dragon form or against structures. While in human form, Shyvana will also passively generate 1 / 1.5 / 2 fury each second.
+
+ 
+
+Active: Shyvana transforms into a dragon and dashes to a target location. Enemies along her path take 150 / 250 / 350 (+100% of ability power) magic damage and are pushed toward her target location. Shyvana must have a full fury bar to use this spell.
+
+ 
+
+While in dragon form, Shyvana gains 150 / 250 / 350 bonus health and her attack range is changed to 175 / 190 / 205. Dragon form also increases in size by 8 / 16% at ranks 2 / 3.
+
+ 
+
+While in Dragon Form, Shyvana will lose 5 fury every second. Once her Fury bar is empty, she will return to her normal state.
+
+ 
+
+Singed - Insanity Potion: Singed drinks a potent brew of chemicals, granting him 30 / 60 / 90 ability power, armor, magic resistance, movement speed, health regeneration per 5, and mana regeneration per 5 for 25 seconds.
+
+ 
+
+Sion - Unstoppable Onslaught: Sion charges in the target direction for up to 8 seconds, during which time he cannot cast abilities nor attack, but is immune to all crowd control effects. Sion's trajectory will update toward the mouse cursor over the duration, but his rotation speed is significantly slow.
+
+ 
+
+If Sion collides with an enemy champion or terrain, charges for the full 8 seconds, or recasts the ability, he will slam the ground with earth-shattering force, dealing a minimum of 150 / 300 / 450 (+0.4 per bonus attack damage) physical damage and knocking up enemies nearby enemies, while slowing enemies further away. The base damage and crowd control duration increase over the first few seconds of the charge, capping at 400 / 800 / 1200 damage and 1.75 seconds respectively.
+
+ 
+
+Sivir - On the Hunt: Passive: Sivir gains 30 / 45 / 60 % bonus Attack Speed while Ricochet is active.
+
+ 
+
+Active: Sivir rallies her allies for 8 seconds, granting all nearby allies an initial 40 / 50 / 60% Movement Speed bonus that reduces to 20 / 25 / 30% after 2 / 3 / 4 seconds. Allies that enter On The Hunt's radius after the cast are given the same bonus movement speed value and duration Sivir currently has.
+
+ 
+
+Skarner - Impale: Skarner suppresses an enemy champion for 1.75 seconds, dealing 60% of his total Attack Damage as physical damage and 20 / 60 / 100 (+50% of ability power) magic damage to them. During this time, Skarner can move freely and will drag his helpless victim around with him. When the effect ends, Skarner's target will be dealt the same amount of magic and physical damage again.
+
+ 
+
+Sona - Crescendo: Passive: Each rank of Crescendo reduces Sona's basic ability cooldowns by 10 / 25 / 40%.
+
+ 
+
+Active: Sona plays her ultimate chord, forcing enemy champions to dance (stun) for 1.5 seconds and take 150 / 250 / 350 (+50% of ability power) magic damage.
+
+ 
+
+Soraka - Wish: Soraka calls upon the stars, restoring 150 / 250 / 350 (+55% of ability power) health to all allied champions across the field. Wish can affect untargetable allies.
+
+ 
+
+Wish has a 50% increased heal on allied champions below 40% of their maximum health.
+
+ 
+
+Swain - Demonic Ascension: Swain frees the demon within for 12 seconds, gaining 125 / 200 / 275 (+5 per Soul Fragment) bonus health.
+
+ 
+
+While Demonic Ascension is active, Swain drains the 3 enemies closest to him, prioritizing champions, dealing 35 / 50 / 65 (+14.167% of ability power) magic damage to them each second, up to a potential 420 / 600 / 780 (+170% of ability power) damage per enemy. He also restores 20 / 35 / 50 (+16% of ability power) health per second for each enemy hit, reduced by 90% against minions and monsters.
+
+ 
+
+Swain can end the effects of Demonic Ascension early to cast Demonflare, and automatically does so at the end of its duration.
+
+ 
+
+Demonflare: Swain unleashes a nova of soulfire, dealing a minimum of 100 / 150 / 200 (+50% of ability power) magic damage to all nearby enemies, plus 75% of the health Swain drained during Demonic Ascension. Demonflare's damage is capped at 200 / 300 / 400 (+100% of ability power).
+
+ 
+
+Sylas - Hijack: While Hijack is available, Sylas can select a target enemy champion to gain a copy of their ultimate ability at the cost of mana. Sylas cannot select the same champion again for a duration equal to 200% of the target's ultimate cooldown.
+
+ 
+
+Active: Sylas casts his hijacked ultimate ability without cost, scaling based on Hijack's rank and his own statistics.
+
+ 
+
+All Hijacked ultimates and abilities that do not scale with ability power have their attack damage ratios converted to ability power ratios, scaling with 0.6% AP per 1% total AD, and 0.4% AP per 1% bonus AD.
+
+ 
+
+Sylas cannot reset his basic attack while casting Hijack onto an enemy champion.
+
+ 
+
+Syndra - Unleashed Power: Draws upon Syndra's full cataclysmic power, harnessing all dark spheres to deal 90 / 140 / 190 (+20% of ability power) magic damage per sphere to an enemy champion. This spell will cause the three spheres floating about Syndra to become active, dealing a minimum of 270 / 420 / 570 (+60% of ability power) magic damage.
+
+ 
+
+At max rank, Unleashed Power's cast range is increased by 75.
+
+ 
+
+Tahm Kench - Abyssal Voyage: Tahm Kench opens his maw for up to 6 seconds, offering an ally a spot inside his belly. Once they jump in, or once Tahm Kench decides he's diving solo, he starts channeling, conjuring a whirlpool beneath him before diving in, reappearing a few seconds later at his target location.
+
+ 
+
+Taking damage interrupts Abyssal Voyage, putting it on a 10 second cooldown.
+
+ 
+
+Taliyah - Weaver's Wall: Taliyah briefly channels before summoning a massive wall of spiraling rock that tears through the Rift in a target direction and lasts for 5 seconds. Taliyah can reactivate Weaver's Wall while channeling to ride atop the wall as it emerges. Taking damage or inputting a move command in any direction will cut her ride short.
+
+ 
+
+Talon - Shadow Assault: Talon disperses a ring of blades outwards and gains stealth for up to 2.5 seconds while gaining 40% movement speed. When Talon emerges from stealth, the blades converge on his location. Each time a blade passes through an enemy, they take 80 / 120 / 160 (+1.0 per bonus attack damage) physical damage. Each enemy can only be damaged once at the start of the ability and once at the end.
+
+ 
+
+The blades can be redirected to the target of Talon's first basic attack.
+
+ 
+
+Taric - Cosmic Radiance: Taric calls on the stars themselves for protection. After a 2.5 second delay, he and all nearby allies are granted invulnerability for 2.5 seconds.
+
+ 
+
+Teemo - Noxious Trap: Teemo places a trap which stealths and arms in 1 second. It detonates if an enemy steps on it, dealing 200 / 325 / 450 (+50% of ability power) magic damage by poisoning nearby enemies, applying a 30 / 40 / 50% slow and revealing them for 4 seconds. The traps last 5 minutes. Teemo will store one every 30 / 25 / 20 seconds, and can have a maximum of 3 / 4 / 5 stocked up. Each cast requires and uses a trap. After death, Teemo respawns with 2 mushrooms.
+
+ 
+
+Casting traps on existing Noxious Traps causes them to bounce 3 / 4 / 5 Teemos further in the direction they were originally tossed.
+
+ 
+
+Thresh - The Box: Creates a prison of walls around Thresh, dealing 250/400/550 (+100% AP) magic damage and slows any champion that collides with a wall by 99% for 2 seconds.
+
+ 
+
+Once a champion collides with a wall, the wall is destroyed.
+
+ 
+
+Any other walls struck by any other enemy champion slow for half the duration.
+
+ 
+
+Tristana - Buster Shot: Tristana fires a massive cannonball at an enemy unit. This deals 300 / 400 / 500 (+100% of ability power) magic damage and knocks surrounding units back (knockback scales with level).
+
+ 
+
+Trundle - Subjugate: Trundle drains 20 / 27.5 / 35 % (+ 2% per 100AP) of an enemy champion's max health as magic damage and 40% of their armor and magic resist, half immediately and half over 4 seconds. The armor and magic resist bonus/reduction lasts for 4 after it has been fully applied.
+
+ 
+
+Tryndamere - Undying Rage: Tryndamere becomes completely immune to death for 5 seconds, refusing to be reduced below 30 / 50 / 70 Health and instantly gaining 50 / 75 / 100 Fury.
+
+ 
+
+Twisted Fate - Destiny: Reveals all enemy champions (including stealthed champions) for 6 / 8 / 10 seconds. After a 0.5-second delay, Twisted Fate can use Gate once for the duration.
+
+ 
+
+Gate: Twisted Fate channels for 1.5 seconds and, upon completing the channel, blinks to the target location (5500 range).
+
+ 
+
+Twitch - Spray and Pray: Twitch gains 25 / 40 / 55 bonus attack damage and 300 bonus attack range for 5 seconds, during which his basic attacks are replaced by bolts that travel slightly further than his attack range in a straight line, damaging every enemy in their path.
+
+ 
+
+The bolts deal 100−60% physical damage (depending on enemy hit), applies on-hit effects and can critically strike against each individual target.
+
+ 
+
+Udyr - Phoenix Stance: Udyr unleashes pulsing waves of fire around himself for 4 seconds, dealing 12.5 / 25 / 37.5 / 50 / 62.5 / 75 (+25% of ability power) magic damage each second for a total of 50 / 100 / 150 / 200 / 250 / 300 (+100% of ability power) magic damage to all nearby enemies for the duration.
+
+ 
+
+While in Phoenix Stance, Udyr's first and every third basic attack after that sends out a cone of flame in front of him that deals 60 / 110 / 160 / 210 / 260 / 310 (+70% of ability power) magic damage.
+
+ 
+
+The mana cost of this ability decreases with Udyr's level, down to 28 mana at level 18.
+
+ 
+
+Urgot - Fear Beyond Death: First Cast: Urgot fires a chem-drill forward that impales the first enemy champion struck, dealing 100 / 225 / 350 (+0.5 per bonus attack damage) physical damage, leashing them for 4 seconds and slowing them by 0-75% (based on the target's missing health).
+
+ 
+
+If the target is below 25% of their maximum health, Fear Beyond Death can be re-activated, and automatically does so after 3 seconds if the target is within the threshold.
+
+ 
+
+Second Cast: Urgot begins channeling as he launches chains at the target, suppressing them on impact and reeling them in while making them untargetable by other effects.
+
+ 
+
+The channel can only be interrupted by Urgot's death. If the channel is successful, the target is executed and surrounding enemies are terrified for 1.5 seconds.
+
+ 
+
+Varus - Chain of Corruption: Varus flings out a tendril of corruption in the target direction that infects the first enemy champion hit, dealing 150 / 200 / 250 (+100% of ability power) magic damage, revealing and rooting them for 2 seconds while inflicting them with full stacks of Blight over 1.5 seconds.
+
+ 
+
+On impact, the tendril seeks out nearby enemy champions for 2 seconds, after which they are also infected. Tendrils will continue to spread until there are no champions in range that have not already been affected.
+
+ 
+
+Chain of Corruption will attempt to spread even if the first target dies or becomes free of the root. The tendril seeks targets regardless of having sight of them or not.
+
+ 
+
+Vayne - Final Hour: For 8 / 10 / 12 seconds, Vayne gains 35 / 50 / 65 bonus attack damage as well as tripling Night Hunter bonus, reducing Tumble's cooldown by 30 / 40 / 50%, and granting invisibility for 1 second when casting Tumble.
+
+ 
+
+While active, whenever a champion damaged by Vayne dies within 3 seconds, Final Hour's duration is extended by 4 seconds, up to a maximum of the original duration.
+
+ 
+
+Veigar - Primordial Burst: Blasts the target enemy champion with primal magic to between 175 / 250 / 325 (+75% of ability power) and 350 / 500 / 650 (+150% of ability power) magic damage, increasing based on the target's missing Health.
+
+ 
+
+Damage is maximized against enemies below 33% Health.
+
+ 
+
+Vel'Koz - Life Form Disintegration Ray: Passive: Deconstructing enemy Champions Researches them for 7 seconds. Basic attacks and all abilities refresh Research.
+
+ 
+
+Active: Vel'Koz channels a ray of infinite energy that follows the cursor for 2.5 seconds, dealing 45 / 62.5 / 80 (+12.5% of ability power) magic damage every 0.25 seconds to all enemies in range and slowing them by 20% for 1 second. Enemies that stay in the beam accumulate 1 stack of Organic Deconstruction every 0.7 seconds (up to 3 stacks). Researched champions take true damage instead.
+
+ 
+
+Vel'Koz can cancel the ability early by recasting it.
+
+ 
+
+Vi - Assault and Battery: Vi targets an enemy champion and chases it down, knocking it up for 1.25 seconds, dealing 150 / 325 / 500 (+110% bonus AD) physical damage.
+
+ 
+
+While charging, Vi is immune to crowd control and will knock aside enemies in the way, dealing the same damage to them. Vi will also remain Unstoppable for the duration of her uppercut.
+
+ 
+
+Viktor - Chaos Storm: After a 0.25 second delay, Viktor conjures a singularity at the target location, dealing 100 / 175 / 250 (+50% of ability power) magic damage and interrupting channeled abilities. The storm cloud remains for 6 seconds afterwards, firing lightning bolts which deal 65 / 105 / 145 (+45% of ability power) magic damage to all nearby enemies every second.
+
+ 
+
+While the singularity is active Viktor can re-activate Chaos Storm to move it to the cursor's location or at an enemy champion. The singularity moves faster the closer it is to Viktor.
+
+ 
+
+AUGMENT- PERFECT STORM: The Chaos Storm moves 25% faster.
+
+ 
+
+Vladimir - Hemoplague: Vladimir infects the target area with a virulent plague. Affected enemies take 10% increased damage for 4 seconds.
+
+ 
+
+After 4 seconds, infected enemies take 150 / 250 / 350 (+70% of ability power) magic damage, while Vladimir is healed for the same amount (healing is increased by 50% for each additional champion hit beyond the first).
+
+ 
+
+Volibear - Stormbringer: Volibear gains Stormbringer for 12 seconds and leaps to the target location with immunity to crowd control as well as granting sight of the area in a 500 radius during it. If Thundering Smash is active when Stormbringer is cast, its duration is refreshed.
+
+ 
+
+Volibear becomes ghosted and gains 200 / 400 / 600 bonus health, 50 bonus attack range, 25 increased range on Frenzied Maul, and 25% increased size.
+
+ 
+
+Volibear impacts after a 1 second delay, slowing all enemies in an area by 50%, decaying over 1 second. Enemies in the epicenter are also dealt 300 / 500 / 700 (+2.5 per bonus attack damage) (+125% of ability power) physical damage.
+
+ 
+
+Volibear also disables enemy turrets in an area for 3 / 4 / 5 seconds, dealing them the same physical damage.
+
+ 
+
+Stormbringer will cast at max range if cast beyond that.
+
+ 
+
+Effect Radius: 300 (Damage Radius) / 500 (Slow Radius) / 700 (Turret damage and disable radius).
+
+ 
+
+Warwick - Infinite Duress: Warwick leaps in a direction (range = 250% current movement speed), suppressing the first enemy champion he collides with for 1.5 seconds.
+
+ 
+
+Warwick channels over the duration, dealing 175 / 350 / 525 (+1.675 per bonus attack damage) magic damage to his target and applying on-hit effects 3 times, while healing himself for the damage dealt.
+
+ 
+
+Warwick is unstoppable during the leap but can be interrupted during the channel.
+
+ 
+
+Wukong - Cyclone: Wukong and his clone spin their staffs around for up to 2 seconds, becoming disarmed, gaining 20% bonus movement speed and reducing their attack range to 50. The spin deals 1 / 1.5 / 2% of the target's maximum health (+0.275 attack damage) in physical damage to nearby enemies every 0.25 seconds. The damage can go to a total of 16 / 24 / 32% of the target's maximum health (+4.4 attack damage). Enemies affected by Cyclone for the first time are knocked up for 0.6 seconds. Cyclone can be cancelled after casting another ability or recasting after 0.5 seconds. Cyclone can be cast a second time within 8 seconds of the first cast.
+
+ 
+
+RECAST: Wukong and his clone spin their staffs a second time, mimicking the first cast's effects. If recast while spinning, Wukong stops spinning early instead. Wukong can still spin a second time after stopping his first spin early, and can end his second spin early as well.
+
+ 
+
+Nimbus Strike's bonus attack speed duration is continuously refreshed while spinning.
+
+ 
+
+Cyclone's damage is capped at 200 / 400 / 600 per second against monsters (depending on level).
+
+ 
+
+Xayah - Featherstorm: Xayah leaps into the air, becoming briefly untargetable but still able to move.
+
+ 
+
+After a short delay, she unleashes a volley of feather-blades forward in a cone, dealing 125 / 250 / 375 (+1.0 per bonus attack damage) physical damage to all enemies struck and leaving a line of 5 Feathers at the end of Featherstorm's maximum range.
+
+ 
+
+Xerath - Rite of the Arcane: Xerath anchors himself to his current location for up to 10 seconds. While anchored, Xerath is immune to displacement effects and gains the ability to cast Arcane Barrage up to 3 / 4 / 5 times but cannot cast his other abilities.
+
+ 
+
+Rite of the Arcane can be cancelled early by moving or attacking and will automatically end once all shots have been fired. If Rite of the Arcane ends without using a single cast of Arcane Barrage, the cooldown is reduced by 50%.
+
+ 
+
+Arcane Barrage: Xerath calls down a blast of arcane energy which strikes after a short delay, dealing 200 / 250 / 300 (+45% AP) magic damage to enemies within a moderate area. Arcane Barrage has a 0.8 second cooldown between casts (unaffected by cooldown reduction).
+
+ 
+
+Xin Zhao - Crescent Guard: Passive: The last enemy champion targeted by Xin Zhao's basic attacks or Audacious Charge is Challenged for 3 seconds.
+
+ 
+
+Active: Xin Zhao sweeps around him, dealing 75 / 150 / 225 (+1.0 per bonus attack damage) (+15% of target's current health) physical damage to enemies hit, capped at 600 (+1.0 per bonus attack damage) physical damage against monsters. Non-Challenged enemies are also knocked back and stunned for 0.75 seconds.
+
+ 
+
+For the next 3 seconds Xin Zhao has Awareness, negating all damage received from enemies 450-units away from him. Basic attacks and other spell casts extend the duration by 0.3 seconds, but the remaining duration cannot exceed 3 seconds.
+
+ 
+
+Yasuo - Last Breath: Yasuo blinks to the other side of a visible airborne enemy champion nearest to the cursor, instantly generating maximum Flow while resetting Steel Tempest's stacks.
+
+ 
+
+Upon arrival, he knocks up the target and all nearby airborne enemy champions around it for 1 second, slashing them with his sword over the duration, dealing 200 / 350 / 500 (+1.5 of attack damage) physical damage thereafter. Enemy champions around the target that become airborne before the effects end will also be knocked up for the remaining duration and dealt damage at its end.
+
+ 
+
+For the next 15 seconds, Yasuo's critical strikes gain 50% bonus-armor penetration.
+
+ 
+
+If Yasuo would be placed inside a turret's attack range upon blinking, he will instead attempt to position himself outside it (does not apply to the Fountain Laser).
+
+ 
+
+Yone - Fate Sealed: Yone winds up a forward strike, then blinks in the target direction. After 0.125 seconds, all enemies within a wide linear area are stunned for 0.15 seconds, then immediately dealt 200 / 400 / 600 (+0.8 of attack damage) equal parts physical and magic damage, and pulled towards Yone's blinking position and subsequently knocked up for 0.75 seconds.
+
+ 
+
+Yone will attempt to blink a certain distance beyond the last enemy champion hit. If no enemy champions are hit, Yone will instead blink to maximum range.
+
+ 
+
+Yorick - Eulogy of the Isles: Active: Yorick summons the Maiden of the Mist, along with 2 / 3 / 4 Mist Walkers.
+
+ 
+
+The Maiden of the Mist has 300 / 1000 / 3000 (+70% maximum health) in Health and can both move and attack on her own, dealing 0 / 10 / 40 (+50% of Yorick's attack damage) magic damage every second to her target enemy and raising Mist Walkers from nearby enemy deaths.
+
+ 
+
+Yorick's basic attacks against the Maiden of the Mist's target deal 3 / 6 / 9% of the target's maximum health in bonus magic damage. This cannot happen more than once every 2 seconds, and triggers against structures.
+
+ 
+
+Yorick can reactivate Eulogy of the Isles to set the maiden free, causing her to push the nearest lane until she dies.
+
+ 
+
+Yuumi - Final Chapter: Yuumi recoils and opens Book, launching 7 waves of 60 / 100 / 140 (+20% of ability power) magic damage over 3.5 seconds. Enemy champions who are hit by multiple waves take only 50% damage from any wave beyond the first, and they are rooted for 1.75 seconds when struck by three waves.
+
+ 
+
+During Final Chapter, Yuumi can move and cast You and Me! and Zoomies.
+
+ 
+
+Zac - Let's Bounce: Passive: Increases Cell Division's healing from chunks by 1 / 2 / 3% of Zac's maximum health.
+
+ 
+
+Active: Zac bounces 4 times, knocking back and dealing 140 / 210 / 280 (+40% of ability power) magic damage to enemies he hits. While bouncing, Zac gains 20% - 50% bonus movement speed and can cast Unstable Matter.
+
+ 
+
+Enemies hit by Let's Bounce! are slowed by 20% for 1 second after being knocked back. Enemies hit by multiple bounces take 50% less damage for every bounce beyond the first and are not displaced more than once.
+
+ 
+
+Zed - Death Mark: Active: Zed becomes untargetable and dashes to target enemy champion. Upon arrival, he marks the target for death and spawns a living shadow at his starting position. This shadow lasts 6 seconds and mimics Zed's abilities. After 0.5 seconds Zed can reactivate Death Mark, causing him to switch positions with this shadow.
+
+ 
+
+After 3 seconds, the mark will detonate, dealing physical damage equal to 100% of Zed's attack damage plus 25 / 40 / 55% of damage dealt of all magic and physical damage dealt to the target by Zed and his shadows while the mark was active.
+
+ 
+
+Ziggs - Mega Inferno Bomb: Ziggs deploys his ultimate creation, the Mega Inferno Bomb, hurling it an enormous distance. Enemies in the primary blast zone take 300 / 450 / 600 (+110% of ability power) magic damage, while those further away take 33% less damage.
+
+ 
+
+Zilean - Chronoshift: Marks an ally champion or himself with a protective time rune for 5 seconds. If the target takes lethal damage during this time, instead of dying, they will be untargettable and remain in stasis for 2 seconds, then return to life, regaining 600 / 850 / 1100 (+200% of ability power) Health.
+
+ 
+
+Zoe - Portal Jump: Zoe targets a location and then dives into a portal that she opens beneath her, blinking to the target location after a very brief delay. After 1 second, she falls back through the portal and blinks back to her cast location.
+
+ 
+
+Zoe remains able to attack and cast abilities during Portal Jump, and can see over walls, but cannot move.
+
+ 
+
+Zyra - Stranglethorns: Zyra summons a twisted thicket at a target location, dealing 180 / 265 / 350 (+75% of ability power) magic damage to enemies as it expands and knocking them airborne as it contracts. Plants in the area are enraged, dealing 50% bonus damage and gaining 50% current and max health.

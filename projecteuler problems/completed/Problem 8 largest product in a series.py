@@ -41,9 +41,18 @@ while i < len(num) - 12:
     num12 = int(num[i+11])
     num13 = int(num[i+12])
     
-    product = num1*num2*num3*num4*num5*num5*num6*num7*num8*num9*num10*num11*num12*num13
-    if product > biggest_num:
-        biggest_num = product
-    i += 1
+    lst = [num1, num2, num3, num4, num5, num6, num7, num8, num9, num10, num11, num12, num13]
+    if 0 not in lst:
+        product = 1
+        for item in lst:
+            product *= item
+        if product > biggest_num:
+            biggest_num = product
+            print(lst, product)
+    i+=1
+    # product = num1*num2*num3*num4*num5*num5*num6*num7*num8*num9*num10*num11*num12*num13
+    # if product > biggest_num:
+    #     biggest_num = product
+    # i += 1
 print (biggest_num, time.time() - start)
 
