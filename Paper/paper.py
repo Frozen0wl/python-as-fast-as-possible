@@ -1,15 +1,6 @@
-import sys
-import math
+a=int(input())+int(input())%7
+print(a%7 if a>0 else 7)
 
-# Auto-generated code below aims at helping you parse
-# the standard input according to the problem statement.
-
-count = (input())
-answer = ""
-for unary in input().split():
-    answer += unary
-
-# Write an answer using print
-# To debug: print("Debug messages...", file=sys.stderr, flush=True)
-
-print(int(answer))
+a=int(input())+int(input())
+while a>7:a-=7
+print(a)
