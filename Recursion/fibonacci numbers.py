@@ -8,11 +8,8 @@ def fib(n):
         return fib(n-1)+fib(n-2)
 
 
-fib(5)
-fib(4) + fib(3)
-fib(3) + fib (2) + fib(2) + fib(1)
-fib(2) + fib(1) + 1 + 1 + 1
-print(fib(100))
+
+print(fib())
 
 # for i in range(1, 10):
 #     print(fib(i), end = " ")
