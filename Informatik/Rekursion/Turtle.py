@@ -22,7 +22,7 @@ print(h.heap())
 
 for i in range(17, 24):
     startTime = time.time()
-    drawTree(i)
+    drawTree(i) 
     print(i, "|" ,time.time()-startTime)
 
 

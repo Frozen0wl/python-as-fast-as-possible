@@ -2,6 +2,8 @@ import csv
 import random
 import time
 
+# https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Matplotlib/09-LiveData
+
 x_value = 0
 total_1 = 1000
 total_2 = 1000
