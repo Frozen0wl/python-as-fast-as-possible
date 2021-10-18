@@ -5,7 +5,7 @@ i = 0
 #     print('run')
 #     i += 1
 
-while True:
+while 1:
     print('run')
     i += 1
     if(i == 10):
