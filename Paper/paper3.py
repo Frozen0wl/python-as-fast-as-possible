@@ -1,5 +1,4 @@
-import numpy as np
-a = 3
-b = 4
-c = a/(np.sin(np.arctan(a/b)))
-print(c)
+x = ['ab', 'cd']
+for i in x:
+    print(i.upper())
+print(x)

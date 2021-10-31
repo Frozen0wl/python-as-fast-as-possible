@@ -5,5 +5,11 @@ lst = [[131, 673, 234, 103, 18],
        [805, 732, 524, 37, 331]]
 
 possible_sums = []
+def add(x=0, y=0):
+    if x >= len(lst) or y>= len(lst[0]): return
+    num = lst[x][y]
+    
 
-def 
+print(add())
+
+
