@@ -15,7 +15,7 @@ def done_or_not(board): #board[i][j]
             for i in range(starti, starti+3):
                 for j in range(startj, startj+3):
                     current.append(board[i][j])
-            #print(current)
+            #print(current)d
             if [x for x in range(1, 10)] != sorted(current): return "Try again!"
             current.clear()
     return "Finished!"
