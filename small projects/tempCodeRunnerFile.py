@@ -1,2 +1,2 @@
-f = driver.find_element_by_xpath(florentine)
-    # f.click()
+random.shuffle(level_three)
+    # random.shuffle(level_two)

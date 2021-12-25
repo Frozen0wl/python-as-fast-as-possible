@@ -33,5 +33,5 @@ def prime_factors(num):
         # print(multiple, num)
 
     return a
-print(prime_factors(120))
+print(prime_factors(8912234))
 
