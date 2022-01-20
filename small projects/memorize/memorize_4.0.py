@@ -26,34 +26,24 @@ except:
     print("invalid input")
     quit()
 
-level_one = 0
-level_two = 3
-level_three = 5
 
-day = 3600*24
+levels = collection.find_one(id)['levels']
 
-level_one_frequency_hours = day-3600
-level_two_frequency_hours = day*2.5
-level_three_frequency_hours = day*6
+listOfLevels = [levels["one"], levels["two"], levels["three"]]
 
-level_one_frequency_days = 1
-level_two_frequency_days = 3
-level_three_frequency_days = 7
+intervals = [levels["one"][0], levels["two"][0], levels["three"][0]]
 
-listOfLevels = [[level_one, level_one_frequency_hours, level_one_frequency_days], [level_two, level_two_frequency_hours, level_two_frequency_days], [level_three, level_three_frequency_hours, level_three_frequency_days]]
+days = collection.find_one(id)['days']
+hours = collection.find_one(id)['hours']
 
-intervals = [level_one, level_two, level_three]
-
-days = True
-hours = True
+def copyWordsToAnotherCategory(category):
+    targetCategory = collection[category]
+    dic_1 = targetCategory['words']
+    newDic = dic_1.items()+words.items()
+    collection.update_one({"_id": category}, {"$set": {'words':newDic}})
 
 def stages():
     pass
-
-def copyWordsToAnotherCategory(category):
-    dic_1 = collection.find_one(category)['words']
-    dic_1.update(words)
-    collection.update_one({"_id": category}, {"$set": {'words':dic_1}})
 
 def update():
     collection.update_one({"_id": id}, {"$set": {'words':words}})
@@ -71,6 +61,7 @@ def addNewWord(word, meaning):
     update()
 
 def addArticle(word):
+    word = word.capitalize()
     try:
         artikel = artikel2.getArticle(word)
         addNewWord(word, artikel)
@@ -79,9 +70,12 @@ def addArticle(word):
     
 def addMultipleArticles():
     while True:
-        word = input("word: ")
+        word = input("word: ").capitalize()
         addArticle(word)
-        print(words[word][0]) # prints the article
+        try:
+            print(words[word][0]) # prints the article
+        except:
+            pass
 
 def removeWord(word):
     del words[word]
@@ -98,18 +92,18 @@ def getInterval(streak):
     return intervals[i-1]
 
 def printWords():
-    dash = '-' * 48
+    dash = '-' * 53
     i=0
-
+    j=0
     for key in words:
         
         if i == 0:
             print(dash)
-            print('{:<10s}{:>18s}{:>10s}{:>10s}'.format("word","meaning","streak","time"))
+            print('{:<10s}{:>23s}{:>10s}{:>10s}'.format("word","meaning","streak","time"))
             print(dash)
             i += 1
-
-        print('{:<15s}{:>13s}{:>8d}{:>11.1f}h'.format(key,words[key][0],words[key][1], (time.time()-words[key][2])/3600))
+        j+=1
+        print('{:<20s}{:>13s}{:>8d}{:>11.1f}h'.format(str(j)+". "+key,words[key][0],words[key][1], (time.time()-words[key][2])/3600))
 
 def quiz():    
     for j in range(0, len(listOfLevels)):
