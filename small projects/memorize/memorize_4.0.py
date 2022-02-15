@@ -4,11 +4,12 @@ import time
 import bisect
 import datetime
 import artikel2
-import reminder_email
+import english
 
 client = pymongo.MongoClient("mongodb+srv://main:main@memorizecluster.guleg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+
 db = client["Melih"]
-collection = db["Words"]
+collection = db["School"]
 
 i = 0
 for item in collection.find():
@@ -30,8 +31,11 @@ except:
 levels = collection.find_one(id)['levels']
 
 listOfLevels = [levels["one"], levels["two"], levels["three"]]
+listOfLevels = [item for item in levels]
 
 intervals = [levels["one"][0], levels["two"][0], levels["three"][0]]
+intervals = [item[0] for item in levels]
+
 
 days = collection.find_one(id)['days']
 hours = collection.find_one(id)['hours']
@@ -77,6 +81,22 @@ def addMultipleArticles():
         except:
             pass
 
+def addEnglish(word):
+    word = word.lower()
+    all = english.word_definiton(word)
+    definition, synonym, example = all.get_all()
+    addNewWord(word, definition)
+    words[word].append({"synonyms":synonym, "example":example})
+    update()
+
+def addMultipleEnglish():
+    while True:
+        word = input("word: ").lower()
+        addEnglish(word)
+        try:
+            print(words[word][0])
+        except:
+            pass
 def removeWord(word):
     del words[word]
     update()

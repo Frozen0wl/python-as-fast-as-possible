@@ -36,7 +36,7 @@ while True:
             print(True)
             score += 1
         else:
-            print("Wrong, it was " + letter, "Your score is: ", score)
+            print("Wrong, it was " + letter, " | Your score is: ", score)
             break
 
     

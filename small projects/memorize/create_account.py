@@ -10,4 +10,4 @@ db = client[username]
 collection = db[subject]
 
 collection.insert_one({"_id": category, "words":{}, "days": True, "hours": True, 
-"levels":{"one":[0, 3600*20, 1], "two":[3, 3600*24*2.5, 3], "three":[5, 3600*24*6, 7]}})
+"levels":{"one":[0, 3600*20, 1], "two":[3, 3600*24*2.5, 3], "three":[5, 3600*24*6, 7]}}) # streak needed | frequency | 
