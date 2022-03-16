@@ -132,17 +132,17 @@ def quiz():
         
         print("level", j+1) # prints the current level
         for key, value in words.items():
-            if getInterval(value[1]) == item[0] and ((time.time()-value[2] >= item[1] and hours) or ((datetime.datetime.today()-datetime.datetime.strptime(value[4], '%Y-%m-%d')).days >= item[2] and days)):
-                answer = input(key+": ")
-                if answer == value[0] or answer == 'y':
-                    words[key][1] += 1 # increase the streak
-                else:
-                    words[key][1] = 0 # resets the streak
-                    print(f'the correct answer was: {value[0]}')
-                words[key][2] = time.time() #resets the time
-                words[key][3] += 1
-                words[key][4] = str(datetime.date.today())
-                update()
+            #if getInterval(value[1]) == item[0] and ((time.time()-value[2] >= item[1] and hours) or ((datetime.datetime.today()-datetime.datetime.strptime(value[4], '%Y-%m-%d')).days >= item[2] and days)):
+            answer = input(key+": ")
+            if answer == value[0] or answer == 'y':
+                words[key][1] += 1 # increase the streak
+            else:
+                words[key][1] = 0 # resets the streak
+                print(f'the correct answer was: {value[0]}')
+            words[key][2] = time.time() #resets the time
+            words[key][3] += 1
+            words[key][4] = str(datetime.date.today())
+            update()
 
 
 eval(input("input: "))
